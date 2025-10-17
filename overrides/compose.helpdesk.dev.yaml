@@ -1,0 +1,5 @@
+services:
+  backend:
+    volumes:
+      # remove or comment this line (we’ll load from GitHub)
+      # - C:/repos/FrappeHelpDesk/helpdesk:/workspace/development/apps/helpdesk
