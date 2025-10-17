@@ -1,0 +1,4 @@
+services:
+  backend:
+    volumes:
+     - C:/repos/FrappeHelpDesk/helpdesk:/workspace/development/apps/helpdesk
